@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: CS:490 Foundations of Embedded Systems - Fall 2026
 
 # import hextra as module
 module:
@@ -11,46 +11,43 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
+    # enable hextra passthrough syntax for Latex support
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ["$$", "$$"]]
+          inline: [['\(', '\)']]
+        enable: true
+        
   # enable hextra syntax highlight
   highlight:
     noClasses: false
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Syllabus
+      pageRef: /syllabus
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: Lectures
+      pageRef: /lectures
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Exams
+      pageRef: /exams
       weight: 3
-    - name: Search
+    - name: Resources
+      pageRef: /resources
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
-
 params:
   navbar:
     displayTitle: true
     displayLogo: false
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: true
+    width: normal
 
-  editURL:
-    enable: true
-    base: "https://github.com/tinelli/Courses/edit/main/content"
