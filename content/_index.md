@@ -10,7 +10,7 @@ toc: false
 Tue & Thu @ 3:30pm - 4:45pm, E264 [CB](https://www.facilities.uiowa.edu/building/0003)
     
 #### Staff & Drop-in Hours
-**Instructor:** [Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/), 1 [JH](https://www.facilities.uiowa.edu/named-building/jessup-hall)
+**Instructor:** [Cesare Tinelli](https://tinelli.github.io), 1 [JH](https://www.facilities.uiowa.edu/named-building/jessup-hall)
 <br>
 + xxxx (Office or [Zoom](https://uiowa.zoom.us/j/884316858))
 + xxxx (Office or [Zoom](https://uiowa.zoom.us/j/884316858))
