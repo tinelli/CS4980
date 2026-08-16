@@ -6,7 +6,8 @@ type: lectures
 This page gives highlights of past lectures and provides lecture notes, reading assignments, and exercises.
 Greyed out text is tentative and subject to change. 
 
-Chapters and sections in readings are from the textbook, and so are exercises.
+Chapters and sections in readings are from the textbook, and 
+so are the exercises.
 
 <div style="color: #D3D3D3;">
 

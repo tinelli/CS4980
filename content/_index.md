@@ -3,31 +3,35 @@ title: The University of Iowa
 toc: false
 ---
 
-## CS:4980 Foundations of Embedded Systems
+<center style="font-size: 1.8rem;">
+Department of Computer Science
+</center>
+
+## CS:5980 Foundations of Embedded Systems
 ### Fall 2026
 
 #### Lectures
 Tue & Thu @ 3:30pm - 4:45pm, E264 [CB](https://www.facilities.uiowa.edu/building/0003)
     
 #### Staff & Drop-in Hours
-**Instructor:** [Cesare Tinelli](https://tinelli.github.io), 1 [Jessup Hall](https://www.facilities.uiowa.edu/named-building/jessup-hall), [Zoom](https://uiowa.zoom.us/j/884316858) 884-316-858
+**Instructor:** [Cesare Tinelli](https://tinelli.github.io), 1 [Jessup Hall](https://www.facilities.uiowa.edu/named-building/jessup-hall), Zoom [884-316-858](https://uiowa.zoom.us/j/884316858) 
 
-+ Mon 2:30-3:30
-+ Wed 11:30-12:30
-+ Thu 1:30-2:30
-+ and by appointment.
++ Mon 2:30-3:30,
+  Wed 11:30-12:30,
+  Thu 1:30-2:30
+  and by appointment.
+
 All scheduled hours are at the office _and_ on Zoom.
 
 **Teaching Assistant:** [Xiang Liu](https://xliu264.github.io), Office: 314 [MacLean Hall](https://www.facilities.uiowa.edu/named-building/maclean-hall),
-[Zoom](https://uiowa.zoom.us/j/xxxx) [TBA]
+Zoom [[TBA]](https://uiowa.zoom.us/j/xxxx)
 
-- [TBA]
-- and by appointment.
+- [TBA] and by appointment.
 
 #### Course Tools
-- [Piazza](xxx): For announcements, clarifications, questions, and discussions
+- [Piazza](https://piazza.com/class/msuknptljkf2f9/): For announcements, clarifications, questions, and discussions
 - [ICON](https://uiowa.instructure.com/courses/283869): For homework submissions and grades
-- [UICapture](xxx): For lecture recordings
+- [UICapture](https://uicapture.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=091e6820-da18-4efd-830f-b4a701119859): For lecture recordings
 
 #### Credits
 The lectures notes are based on a set of lectures notes by Rajeev Alur.
