@@ -4,10 +4,14 @@ type: lectures
 ---
 
 This page gives highlights of past lectures and provides lecture notes, reading assignments, and exercises.
-<br>
+Greyed out text is tentative and subject to change. 
+
 Chapters and sections in readings are from the textbook, and so are exercises.
 
+<div style="color: #D3D3D3;">
+
 #### Aug 25 -- Aug 27
+
 Course introduction and administration.
 Introduction to Embedded Systems.
 The synchronous model of reactive computation.
@@ -254,3 +258,4 @@ Experiment with Kind 2 examples [online](https://kind.cs.uiowa.edu/app/)
 
 #### Dec 8 -- Dec 10
 
+</div>

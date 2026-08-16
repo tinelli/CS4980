@@ -5,8 +5,8 @@ type: resources
 
 
 ### Models
-- Sheen examples seen in class
-- Sheen tutorial
+- Lucent examples seen in class
+- Lucent tutorial
 - Kind 2 [user documentation](https://kind.cs.uiowa.edu/kind2_user_doc/)
 
 ### Kind 2

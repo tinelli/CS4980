@@ -10,25 +10,24 @@ toc: false
 Tue & Thu @ 3:30pm - 4:45pm, E264 [CB](https://www.facilities.uiowa.edu/building/0003)
     
 #### Staff & Drop-in Hours
-**Instructor:** [Cesare Tinelli](https://tinelli.github.io), 1 [JH](https://www.facilities.uiowa.edu/named-building/jessup-hall), [Zoom](https://uiowa.zoom.us/j/884316858) 884-316-858
-<br>
+**Instructor:** [Cesare Tinelli](https://tinelli.github.io), 1 [Jessup Hall](https://www.facilities.uiowa.edu/named-building/jessup-hall), [Zoom](https://uiowa.zoom.us/j/884316858) 884-316-858
+
 + Mon 2:30-3:30
 + Wed 11:30-12:30
 + Thu 1:30-2:30
 + and by appointment.
-All schedules hours are at the office _and_ on Zoom/
+All scheduled hours are at the office _and_ on Zoom.
 
-**Teaching Assistant:** [Xiang Liu](https://xliu264.github.io)  
-Office: 314 [MLH](https://www.facilities.uiowa.edu/named-building/maclean-hall)  
-Zoom: [xxxx](https://uiowa.zoom.us/j/xxxx)
+**Teaching Assistant:** [Xiang Liu](https://xliu264.github.io), Office: 314 [MacLean Hall](https://www.facilities.uiowa.edu/named-building/maclean-hall),
+[Zoom](https://uiowa.zoom.us/j/xxxx) [TBA]
 
-- xxxx
+- [TBA]
 - and by appointment.
 
 #### Course Tools
-- [Piazza](): For announcements, clarifications, questions, and discussions
+- [Piazza](xxx): For announcements, clarifications, questions, and discussions
 - [ICON](https://uiowa.instructure.com/courses/283869): For homework submissions and grades
-- [UICapture](): For lecture recordings
+- [UICapture](xxx): For lecture recordings
 
 #### Credits
 The lectures notes are based on a set of lectures notes by Rajeev Alur.

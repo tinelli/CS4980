@@ -25,20 +25,24 @@ markup:
 
 menu:
   main:
+    - name: Home
+      pageRef: /
+      weight: 1
     - name: Syllabus
       pageRef: /syllabus
-      weight: 1
+      weight: 2
     - name: Lectures
       pageRef: /lectures
-      weight: 2
+      weight: 3
     - name: Exams
       pageRef: /exams
-      weight: 3
+      weight: 4
     - name: Resources
       pageRef: /resources
-      weight: 4
-    - name: Search
       weight: 5
+    - name: Search
+      weight: 6
+      identifier: search
       params:
         type: search
 params:
