@@ -16,7 +16,7 @@ type: exams
 Midterm I will cover material from the beginning of the semester up to, and
 including, the last class before it.
 It will be closed books, notes, laptops and other electronic devices. 
-However, you are allowed to bring up to <em>2 pages</em> (one sheet front and
+However, you are allowed to bring up to _2 pages_ (one sheet front and
 back) of notes.
 
 The exam will assume knowledge of all the required reading material listed 
