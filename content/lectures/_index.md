@@ -4,7 +4,7 @@ type: lectures
 ---
 
 This page gives highlights of past lectures and provides lecture notes, reading assignments, and exercises.
-Greyed out text is tentative and subject to change. 
+Greyed out text (for future lectures) is tentative and subject to change. 
 
 Chapters and sections in readings are from the textbook, and 
 so are the exercises.
@@ -19,11 +19,11 @@ The synchronous model of reactive computation.
 Reactive components.
 
 **Notes:**
-[Introduction](notes/chap1.pdf),
-The Synchronous Model [Part I](notes/chap2a.pdf)
+[Introduction](chap1.pdf) ,
+The Synchronous Model [Part I](chap2a.pdf)
 <br>
 **Readings:**
-[Syllabus](syllabus.shtml),
+[Syllabus](../syllabus),
 Chap. 1,
 Sect. 2.1
 
@@ -38,7 +38,7 @@ Parallel composition of components.
 Formal definitions.
 
 **Notes:**
-The Synchronous Model [Part I](notes/chap2a.pdf) and [Part II](notes/chap2b.pdf)
+The Synchronous Model [Part I](chap2a.pdf) and [Part II](chap2b.pdf)
 <br>
 **Readings:**
 Sect. 2.1 - 2.4
@@ -53,7 +53,7 @@ Bottom-up vs. top-down design.
 Synchronous networks.
 
 **Notes:**
-The Synchronous Model [Part II](notes/chap2b.pdf) and [Part III](notes/chap2c.pdf)
+The Synchronous Model [Part II](chap2b.pdf) and [Part III](chap2c.pdf)
 <br>
 **Readings:**
 Sect. 2.3–2.4
@@ -72,8 +72,8 @@ Requirement-based design.
 Complexity of automated invariant verification.
 
 **Notes:**
-Safety Requirements [Part I](notes/chap3a.pdf), [Part II](notes/chap3b.pdf),
-and [Part III](notes/chap3c.pdf)
+Safety Requirements [Part I](chap3a.pdf), [Part II](chap3b.pdf),
+and [Part III](chap3c.pdf)
 <br>
 **Readings:**
 Sect. 3.1–3.2; Sect. 3.4 (recommended)
@@ -92,7 +92,7 @@ Synchronization. Deadlocks.
 Shared memory. The mutual exclusion problem.
 
 **Notes:**
-The Asynchronous Model [Part I](notes/chap4a.pdf) and [Part II](notes/chap4b.pdf)
+The Asynchronous Model [Part I](chap4a.pdf) and [Part II](chap4b.pdf)
 <br>
 **Readings:**
 Sect. 4.1–4.2
@@ -107,7 +107,7 @@ Asynchronous coordination protocols.
 Leader election. Reliable transmission.
 
 **Notes:**
-The Asynchronous Model [Part II](notes/chap4b.pdf) and [Part III](notes/chap4c.pdf)
+The Asynchronous Model [Part II](chap4b.pdf) and [Part III](chap4c.pdf)
 <br>
 **Readings:**
 Sect. 4.2–4.3 except 4.3.3
@@ -126,8 +126,8 @@ Specifying liveness requirements.
 Introduction to Linear Temporal Logic: syntax and semantics.
 
 **Notes:**
-The Asynchronous Model [Part III](notes/chap4c.pdf),
-Liveness Requirements [Part I](notes/chap5a.pdf)
+The Asynchronous Model [Part III](chap4c.pdf),
+Liveness Requirements [Part I](chap5a.pdf)
 <br>
 **Readings:**
 Sect. 4.3 except proof of Theorem 4.1, Sect. 5.1
@@ -142,7 +142,7 @@ Correspondence between LTL formulas and Büchi automata. Examples.
 Checking LTL properties of reactive systems by reduction to Büchi automata.
 
 **Notes:**
-Liveness Requirements [Part I](notes/chap5a.pdf) and [Part II](notes/chap5b.pdf)
+Liveness Requirements [Part I](chap5a.pdf) and [Part II](chap5b.pdf)
 <br>
 **Readings:**
 Sect. 5.1–5.2.1; Sec 5.2.2, 5.2.4 (recommended)
@@ -161,7 +161,7 @@ Modeling imperfect clocks.
 Timed based protocols. Examples.
 
 **Notes:**
-Timed Model [Part I](notes/chap7a.pdf) and [Part II](notes/chap7b.pdf)
+Timed Model [Part I](chap7a.pdf) and [Part II](chap7b.pdf)
 <br>
 **Readings:**
 Sect. 7.1–2
@@ -179,7 +179,7 @@ Continuous-time components: definition and examples.
 Sufficient conditions for the existence and uniqueness of executions.
 
 **Notes:**
-Dynamical Systems [Part I](notes/chap6a.pdf)
+Dynamical Systems [Part I](chap6a.pdf)
 <br>
 **Readings:**
 Sect. 6.1
@@ -195,7 +195,7 @@ Linear systems.
 Solving linear differential equations.
 
 **Notes:**
-Dynamical Systems [Part II](notes/chap6b.pdf) and [Part III](notes/chap6c.pdf)
+Dynamical Systems [Part II](chap6b.pdf) and [Part III](chap6c.pdf)
 <br>
 **Readings:**
 Sect. 6.1, 6.2,
@@ -217,8 +217,8 @@ Executions and composition of hybrid processes.
 Zeno behavior. Examples.
 
 **Notes:**
-Dynamical Systems [Part IV](notes/chap6d.pdf),
-Hybrid Systems [Part I](notes/chap9a.pdf)
+Dynamical Systems [Part IV](chap6d.pdf),
+Hybrid Systems [Part I](chap9a.pdf)
 <br>
 **Readings:**
 Sect. 6.3, 9.1
@@ -236,7 +236,7 @@ Stability of hybrid systems.
 Designing Hybrid Systems. Examples.
 
 **Notes:**
-Hybrid Systems [Part I](notes/chap9a.pdf) and [Part II](notes/chap9b.pdf)
+Hybrid Systems [Part I](chap9a.pdf) and [Part II](chap9b.pdf)
 <br>
 **Readings:**
 Sect. 9.1, 9.2
