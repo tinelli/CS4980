@@ -154,7 +154,10 @@ Xiang Liu
 
 ### Student Drop-in Hours
 
-[TBA]
+| Day | Time |
+|:---:|:---:|
+| Tuesday | 10:30am - 12:00pm |
+| Friday | 1:00pm - 2:30pm |
 
 The TA is also available by appointment if you are unable to attend 
 the scheduled drop-in hours.
