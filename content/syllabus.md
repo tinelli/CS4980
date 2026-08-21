@@ -122,7 +122,7 @@ Tue & Thu @ 3:30pm - 4:45pm, E264 [CB](https://www.facilities.uiowa.edu/building
 
 ## Instructor
 
-[Cesare Tinelli](https://tinelli.github.io/)
+[Cesare Tinelli](https://cs.uiowa.edu/people/cesare-tinelli/)
 
 - **Phone:** 319-335-0735
 - **Email:** cesare-tinelli@uiowa.edu
@@ -146,7 +146,7 @@ the scheduled drop-in hours.
 
 ## Teaching Assistant
 
-Xiang Liu
+[Xiang Liu](https://cs.uiowa.edu/people/xiang-liu)
 
 - **Phone:** 319-335-0735
 - **Email:** xiang-liu@uiowa.edu

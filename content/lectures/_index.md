@@ -5,7 +5,7 @@ type: lectures
 
 This page gives highlights of past lectures and provides lecture notes, 
 reading assignments, and exercises.
-Greyed out text (for future lectures) is tentative and subject to change. 
+**Greyed out text** (for future lectures) **is tentative and subject to change.**
 
 Chapters and sections in readings are from the textbook, and 
 so are the exercises.
